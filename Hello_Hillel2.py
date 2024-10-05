@@ -1,3 +1,3 @@
 class Hillel:
     def test_hillel():
-        print("hello_Hillel 12345")
+        print("hello_Hillel 1234567890")
